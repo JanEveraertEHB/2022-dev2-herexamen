@@ -20,6 +20,7 @@ Je kan de opdracht en je start repository op deze URL (https://classroom.github.
 * Geef de waarden weer in de tabel
 * Geef de geselecteerde waarde weer in de grafiek
 * Zorg dat de dropdown de metingen weergeeft die overeenkomen met de geselecteerde unit
+* zorg dat een aanpassing van de dropdown de grafiek opnieuw aanmaakt, alsook de tabel
 
 ## Mogelijke errors
 Indien je een error krijgt, probeer dan eerst de volledige error uit te lezen. Console.log is je vriend om te controleren of een array effectief iets bevat, om te checken of een functie uitgevoerd wordt, etc.
