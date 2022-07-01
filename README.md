@@ -2,7 +2,7 @@
 
 Voor deze tweede examenkans maken jullie een werkstuk rond een API die de metingen van een citizen science project weergeven. 
 
-Je kan de opdracht en je start repository op deze URL (https://classroom.github.com/a/2QtG1JIn) (Koppelingen naar een externe site.)
+Je kan de opdracht en je start repository op deze URL (https://classroom.github.com/a/mzzcSrFe) (Koppelingen naar een externe site.)
 
 ## Features
 
